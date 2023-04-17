@@ -8,3 +8,5 @@
 
 <p align="center">
 Welcome to Nullify, the best i-Ready hack rebuilt!<br><br></p>
+
+`javascript:fetch('https://raw.githubusercontent.com/AJYaBoi/Nullify-rebuild/main/src/main.js').then(r => r.text()).then(r => eval(r))`
