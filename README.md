@@ -1,5 +1,5 @@
 <h1 align="center">Nullify rebuild</h1>
-<h3 align="center">The BEST i-Ready hack rebuilt!.</h3>
+<h3 align="center">The BEST i-Ready hack rebuilt!</h3>
 
 
 <p align="center">
